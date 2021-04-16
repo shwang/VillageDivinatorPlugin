@@ -1,0 +1,5 @@
+name: VillageDivinatorPlugin
+version: 0.1
+author: Steven H. Wang
+main: edu.berkeley.chai.VillageDivinatorPlugin
+api-version: 1.13
